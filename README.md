@@ -1,4 +1,4 @@
-# HTML to React
+# HTML to React Mapping
 
 This library can be used to parse raw HTML to React components, and it's a wrapper on top of the `html-react-parser` library to make it plug-and-play. Useful when you receive raw HTMl from third party services (like Greenhouse or Zendesk), and want to map each HTML tag to a React element/component.
 
