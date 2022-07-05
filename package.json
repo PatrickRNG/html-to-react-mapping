@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "html-to-react",
+  "name": "html-to-react-mapping",
   "author": "Patrick Passarella",
   "module": "dist/html-to-react.esm.js",
   "size-limit": [
