@@ -4,6 +4,10 @@ This library can be used to parse raw HTML to React components, and it's a wrapp
 
 ## Usage
 
+```bash
+yarn add html-to-react-mapping
+```
+
 Check the [/example/index.tsx](./example/index.tsx) folder located on this repository for an implementation example.
 
 ```tsx
